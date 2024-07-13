@@ -10,3 +10,7 @@ Welcome to the Chat App! This project is a real-time messaging application built
     Cloudinary: Cloud-based image and video management service.
     Zustand: State management library.
     Upstash Redis: Serverless Redis for the database.
+![Screenshot 2024-07-13 142821](https://github.com/user-attachments/assets/f12ff3c4-5863-4008-84e4-7fbbb30ed89d)
+![Screenshot 2024-07-13 125515](https://github.com/user-attachments/assets/861e249e-3dce-4ff7-819b-644454729bea)
+![Screenshot 2024-07-13 125557](https://github.com/user-attachments/assets/6e89dad7-0fe1-447d-b92c-5c1629b9e5c6)
+![Screenshot 2024-07-13 142931](https://github.com/user-attachments/assets/1da4f5d5-bf2f-4dd3-a79d-be1286a3c378)
