@@ -14,6 +14,6 @@ Welcome to the Chat App! This project is a real-time messaging application built
 
 ![Screenshot 2024-07-13 125515](https://github.com/user-attachments/assets/861e249e-3dce-4ff7-819b-644454729bea)
 
-![Screenshot 2024-07-13 125515](https://github.com/user-attachments/assets/b9db21e6-3d66-43f6-a4eb-4d4c3d5d94e2)
+![Screenshot 2024-07-13 142846](https://github.com/user-attachments/assets/886d6b4d-5100-4033-bf18-f4cc9da16c71)
 
 ![Screenshot 2024-07-13 142931](https://github.com/user-attachments/assets/1da4f5d5-bf2f-4dd3-a79d-be1286a3c378)
